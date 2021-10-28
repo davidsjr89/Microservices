@@ -38,7 +38,9 @@ namespace Discount.API.Repositories
                 (@"INSERT INTO Coupon(ProductName, Description, Amount)
                    VALUES (@ProductName, @Description, @Amount)", new
                 {
-                     ProductName = coupon.ProductName, Description = coupon.Description, Amount = coupon.Amount
+                    ProductName = coupon.ProductName,
+                    Description = coupon.Description,
+                    Amount = coupon.Amount
                 });
 
             if (affect == 0) return false;
@@ -79,7 +81,7 @@ namespace Discount.API.Repositories
         }
         private NpgsqlConnection GetConnectionPostgreSQL()
         {
-            return new NpgsqlConnection(_configuration.GetValue<string>("DatabaseSettings:Connection"));
+            return new NpgsqlConnection(_configuration.GetValue<string>("DatabaseSettings:ConnectionString"));
         }
     }
 }
