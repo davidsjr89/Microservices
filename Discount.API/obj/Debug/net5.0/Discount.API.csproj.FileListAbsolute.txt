@@ -1,4 +1,3 @@
-C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\Discount.API.csproj.AssemblyReference.cache
 C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\Discount.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\Discount.API.AssemblyInfoInputs.cache
 C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\Discount.API.AssemblyInfo.cs
@@ -28,3 +27,5 @@ C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\Discount.API.dll
 C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\ref\Discount.API.dll
 C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\Discount.API.pdb
 C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\Discount.API.genruntimeconfig.cache
+C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\Discount.API.csproj.AssemblyReference.cache
+C:\Projetos\Microservices\Discount.API\obj\Debug\net5.0\Discount.API.csproj.CopyComplete
